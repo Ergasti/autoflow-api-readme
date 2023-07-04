@@ -45,7 +45,7 @@ curl -X POST \
     "status": 200
 }
 ```
-##Status Codes
+### Status Codes
 
 | Status | Code | Description  |
 | ------  | ------  | -----------------  |
