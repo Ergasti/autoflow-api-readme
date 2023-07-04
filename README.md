@@ -38,6 +38,8 @@ curl -X POST \
         "signup_timestamp": "2023-06-25T12:00:00Z",
         "flow_id": "789"
     }'
+```
+```json
 ##Example Response
 {
     "message_id": 1,
