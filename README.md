@@ -46,9 +46,10 @@ curl -X POST \
 }
 ```
 ##Status Codes
-| Status | Code | Description
------------------------------
-200 | OK  | The message was added to the database successfully.
-400 | Bad Request | Required parameters are missing.
-401 | Unauthorized | Invalid API key.
-500 | Internal Server Error | Database query error.
+
+| Status | Code | Description  |
+| ------  | ------  | -----------------  |
+| 200 | OK  | The message was added to the database successfully.  |
+| 400 | Bad Request | Required parameters are missing.  |
+| 401 | Unauthorized | Invalid API key.  |
+| 500 | Internal Server Error | Database query error.  |
