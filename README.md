@@ -39,8 +39,8 @@ curl -X POST \
         "flow_id": "789"
     }'
 ```
-```json
 ##Example Response
+```json
 {
     "message_id": 1,
     "message": "The message was added to the database successfully.",
