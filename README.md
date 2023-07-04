@@ -44,6 +44,7 @@ curl -X POST \
     "message": "The message was added to the database successfully.",
     "status": 200
 }
+```
 ##Status Codes
 | Status | Code | Description
 -----------------------------
